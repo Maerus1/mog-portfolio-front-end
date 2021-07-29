@@ -1,3 +1,9 @@
+# Introduction
+
+This project was inspired by Square Enix's MogStation: https://secure.square-enix.com/oauth/oa/oauthlogin%3Fresponse_type%3Dcode%26redirect_uri%3Dhttps%253A%252F%252Fsecure.square-enix.com%252Faccount%252Fapp%252Fsvc%252Ftop%253Frequest%253Dmogstation%26client_id%3Dffxiv_mog%26alar%3D1%26lang%3Den-us%26facflg%3D1
+
+I'm just getting started with this project but this is an initative to see how well I can adapt a mobile-first, AODA-compliant product and improve upon the design and usefulness of the service. Much more to come for this project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
